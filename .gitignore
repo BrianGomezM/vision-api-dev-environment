@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# resultados
+charts/
+test_results_json/
+*.xlsx
+
+# modelos
+*.pt
+*.pth
+
+# sistema
+.DS_Store
+Thumbs.db
